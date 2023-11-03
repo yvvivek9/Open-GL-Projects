@@ -1,0 +1,12 @@
+﻿  OpenGL Basics.cpp
+OpenGL Basics.obj : error LNK2001: unresolved external symbol _glutInit@8
+OpenGL Basics.obj : error LNK2001: unresolved external symbol __imp__glClear@4
+OpenGL Basics.obj : error LNK2001: unresolved external symbol _glutCreateWindow@4
+OpenGL Basics.obj : error LNK2001: unresolved external symbol _glutInitDisplayMode@4
+OpenGL Basics.obj : error LNK2001: unresolved external symbol _glutWireTeapot@8
+OpenGL Basics.obj : error LNK2001: unresolved external symbol __imp__glFlush@0
+OpenGL Basics.obj : error LNK2001: unresolved external symbol _glutDisplayFunc@4
+OpenGL Basics.obj : error LNK2001: unresolved external symbol _glutMainLoop@0
+OpenGL Basics.obj : error LNK2001: unresolved external symbol _glutInitWindowPosition@8
+OpenGL Basics.obj : error LNK2001: unresolved external symbol _glutInitWindowSize@8
+C:\Computer Graphics\OpenGL Basics\Release\OpenGL Basics.exe : fatal error LNK1120: 10 unresolved externals
